@@ -1,0 +1,27 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Poetry
+poetry.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# Pytest
+.cache
+*.cover
+coverage.xml
+*.log
+*.xml
+*.html
+
+# Jupyter Notebook
+.ipynb_checkpoints
