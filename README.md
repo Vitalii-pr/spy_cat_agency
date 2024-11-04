@@ -28,4 +28,4 @@ uvicorn src.main:app --reload
 ```
 
 
-[LINK TO POSTMAN](https://api.postman.com/collections/20679108-728c9c9c-fbd6-4050-86a9-de90197a5f5b?access_key=PMAT-01JBCRP7MMNZM1M78F9X6TAAX3/)
+[LINK TO POSTMAN]([https://api.postman.com/collections/20679108-728c9c9c-fbd6-4050-86a9-de90197a5f5b?access_key=PMAT-01JBCRP7MMNZM1M78F9X6TAAX3/](https://bold-spaceship-277786.postman.co/workspace/My-Workspace~85ff1f14-b8a6-4fda-8605-c959635be063/collection/20679108-728c9c9c-fbd6-4050-86a9-de90197a5f5b?action=share&creator=20679108))
